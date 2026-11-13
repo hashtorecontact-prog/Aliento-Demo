@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>Aliento</title>
+
+
+
+    <!--main_css-->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/css/style.css" rel="stylesheet" type="text/css">
+
+
+
+    <!-- Bootstrap -->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+    <!--responsive_css-->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/css/responsive.css" rel="stylesheet" type="text/css">
+
+
+
+    <!--font-awesome-->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
+
+
+
+    <!--owl-carousel-->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+
+
+
+    <!--datepicker-->
+
+    <link rel="stylesheet" href="https://aliento.com.au/wp-content/themes/web-aliento/css/jquery-ui.css">
+
+
+
+    <!--animate-->
+
+    <link href="https://aliento.com.au/wp-content/themes/web-aliento/css/animate.css" rel="stylesheet" type="text/css">
+
+
+
+    <!--favicon-->
+
+	<link rel="icon" type="images/favicon.png" href="https://aliento.com.au/wp-content/themes/web-aliento/images/favicon.png">
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+
+
+
+
+  
+		<!-- All in One SEO 5.0.1.1 - aioseo.com -->
+	<meta name="robots" content="noindex" />
+	<meta name="google-site-verification" content="NMCEKaTIOWR5Vk_Ags0U_xlGUpGY1PehBvIBFP_wqXQ" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 5.0.1.1" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/aliento.com.au\/wp-content\/themes\/web-aliento\/images\/favicon.png\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/aliento.com.au#listItem","position":1,"name":"Home","item":"https:\/\/aliento.com.au","nextItem":{"@type":"ListItem","@id":"#listItem","name":"404 - Page Not Found"}}]},{"@type":"Organization","@id":"https:\/\/aliento.com.au\/#organization","name":"Aliento","description":"Aliento Scoresby | Women-Only Fitness, VacuShape & Shapemaster Pilates","url":"https:\/\/aliento.com.au\/"},{"@type":"WebPage","@id":"https:\/\/aliento.com.au\/wp-content\/themes\/web-aliento\/images\/favicon.png\/#webpage","url":"https:\/\/aliento.com.au\/wp-content\/themes\/web-aliento\/images\/favicon.png\/","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/aliento.com.au\/#website"},"breadcrumb":{"@id":"https:\/\/aliento.com.au\/wp-content\/themes\/web-aliento\/images\/favicon.png\/#breadcrumblist"}},{"@type":"WebSite","@id":"https:\/\/aliento.com.au\/#website","url":"https:\/\/aliento.com.au\/","name":"Aliento","description":"Aliento Scoresby | Women-Only Fitness, VacuShape & Shapemaster Pilates","inLanguage":"en-US","publisher":{"@id":"https:\/\/aliento.com.au\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://aliento.com.au/wp-includes/css/dist/block-library/style.min.css?ver=7.1.2' media='all' />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='aioseo/css/src/vue/standalone/blocks/table-of-contents/global.scss-css' href='https://aliento.com.au/wp-content/plugins/all-in-one-seo-pack/dist/Lite/assets/css/table-of-contents/global.e90f6d47.css?ver=5.0.1.1' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='acf-srf-css' href='https://aliento.com.au/wp-content/plugins/acf-starrating/css/jquery.rating.css?ver=7.1.2' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://aliento.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://aliento.com.au/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' media='all' />
+<script id="jquery-core-js" src="https://aliento.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://aliento.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="acf-srf-js-extra">
+var srfajax = {"url":"https://aliento.com.au/wp-admin/admin-ajax.php","nonce":"ca0b1d64f1"};
+var objectL10n = {"onevote":"vote","twovote":"votes","manyvote":"votes","yvoice":"Your voice:"};
+//# sourceURL=acf-srf-js-extra
+</script>
+<script id="acf-srf-js" src="https://aliento.com.au/wp-content/plugins/acf-starrating/js/jquery.rating.js?ver=7.1.2"></script>
+<script id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+
+//# sourceURL=addtoany-core-js-before
+</script>
+<script id="addtoany-core-js" defer src="https://static.addtoany.com/menu/page.js"></script>
+<script id="addtoany-jquery-js" defer src="https://aliento.com.au/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<link rel="https://api.w.org/" href="https://aliento.com.au/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aliento.com.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.2" />
+<meta name="generator" content="Elementor 4.1.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://aliento.com.au/wp-content/uploads/2025/07/cropped-logo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://aliento.com.au/wp-content/uploads/2025/07/cropped-logo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://aliento.com.au/wp-content/uploads/2025/07/cropped-logo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://aliento.com.au/wp-content/uploads/2025/07/cropped-logo-270x270.jpg" />
+
+  </head>
+
+
+
+  <body>
+
+
+
+
+
+<!--review-POPUP-->
+
+<!-- Modal -->
+
+<div id="review-modal" class="modal fade" role="dialog">
+
+  <div class="modal-dialog review-pop">
+
+
+
+    <!-- Modal content-->
+
+    <div class="modal-content">
+
+
+
+      <div class="modal-body">
+
+      	<div class="row">
+
+        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 login-sec">
+
+            	<img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/review-icon.png" class="img-responsive center-block">
+
+            	<h4>Customer Review Form</h4>
+
+            </div>
+
+            <div class="login-pop-btn">
+
+            	<button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            </div>
+
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 login-form">
+
+            	<form id="myform" method="post">
+
+                
+
+                
+
+                <div id="review-pop-msg" class="review-msg-popup" style="display:none;">
+
+                	<h4>Thank you for submitting your review.</h4>
+
+                </div>
+
+                
+
+                
+
+                
+
+        	<div class="row">
+
+            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+
+                	<input id="fname" name="fname" type="text" placeholder="First Name" required >
+
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+
+                	<input id="lname" name="lname" type="text" placeholder="Last Name" required>
+
+                </div>
+
+            </div>
+
+             <div class="row">
+
+            	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                	<input id="username" name="username" type="text" placeholder="Username (will be shown with review)">
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+            	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                	<input id="user_email" name="user_email" type="email" placeholder="Email" required>
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+            	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                	<textarea id="review" name="review" placeholder="Write A Review" rows="5"></textarea>
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+            	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                	 <fieldset class="rating"><p>Please Rate :</p>
+
+                      <input type="radio" id="star5" name="rating" value="5" /><label class = "full" for="star5" title="Awesome - 5 stars"></label>
+
+                      <input type="radio" id="star4half" name="rating" value="4 and a half" /><label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+
+                      <input type="radio" id="star4" name="rating" value="4" /><label class = "full" for="star4" title="Pretty good - 4 stars"></label>
+
+                      <input type="radio" id="star3half" name="rating" value="3 and a half" /><label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+
+                      <input type="radio" id="star3" name="rating" value="3" /><label class = "full" for="star3" title="Meh - 3 stars"></label>
+
+                      <input type="radio" id="star2half" name="rating" value="2 and a half" /><label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+
+                      <input type="radio" id="star2" name="rating" value="2" /><label class = "full" for="star2" title="Kinda bad - 2 stars"></label>
+
+                      <input type="radio" id="star1half" name="rating" value="1 and a half" /><label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+
+                      <input type="radio" id="star1" name="rating" value="1" /><label class = "full" for="star1" title="Sucks big time - 1 star"></label>
+
+                      <input type="radio" id="starhalf" name="rating" value="half" /><label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+
+                  </fieldset>
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+            	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                	<input id="review-submit" type="submit" value="Submit">
+
+                </div>
+
+            </div>
+
+        </form>
+
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+</div>
+
+<!--END-->
+
+
+
+
+
+
+
+
+
+<!--LOGIN-POPUP-->
+
+<!-- Modal -->
+
+<div id="myModal" class="modal fade" role="dialog">
+
+  <div class="modal-dialog login-pop">
+
+
+
+    <!-- Modal content-->
+
+    <div class="modal-content">
+
+
+
+      <div class="modal-body">
+
+      	<div class="row">
+
+        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 login-sec">
+
+            	<img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/white-logo.png" class="img-responsive center-block">
+
+            	<h4>New Customer Registration</h4>
+
+            </div>
+
+            <div class="login-pop-btn">
+
+            	<button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            </div>
+
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 login-form">
+
+                
+<div class="wpcf7 no-js" id="wpcf7-f411-o1" lang="en-US" dir="ltr" data-wpcf7-id="411">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/web-aliento/images/favicon.png#wpcf7-f411-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="411" /><input type="hidden" name="_wpcf7_version" value="6.1.2" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f411-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="fname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name" value="" type="text" name="fname" /></span>
+		</p>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="lname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last Name" value="" type="text" name="lname" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="email-729"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="email-729" /></span>
+		</p>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="tel-371"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone No." value="" type="tel" name="tel-371" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="address"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Address" value="" type="text" name="address" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="Suburb"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Suburb" value="" type="text" name="Suburb" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="country"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="country"><option value="Australia">Australia</option></select></span>
+		</p>
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="state"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="state"><option value="">Select State</option><option value="VIC">VIC</option><option value="NSW">NSW</option><option value="QLD">QLD</option><option value="SA">SA</option><option value="WA">WA</option><option value="ACT">ACT</option><option value="TAS">TAS</option></select></span>
+		</p>
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="Postcode"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Postcode" value="" type="text" name="Postcode" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+</div>
+
+<!--END-->
+
+
+
+<div id="enroll" class="modal fade" role="dialog">
+
+  <div class="modal-dialog login-pop">
+
+
+
+    <!-- Modal content-->
+
+    <div class="modal-content">
+
+
+
+      <div class="modal-body">
+
+      	<div class="row">
+
+        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 login-sec">
+
+            	<img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/white-logo.png" class="img-responsive center-block">
+
+            	<h4>Weight Management and Nutrition</h4>
+
+            </div>
+
+            <div class="login-pop-btn">
+
+            	<button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            </div>
+
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 login-form">
+
+            	
+<div class="wpcf7 no-js" id="wpcf7-f270-o2" lang="en-US" dir="ltr" data-wpcf7-id="270">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/web-aliento/images/favicon.png#wpcf7-f270-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="270" /><input type="hidden" name="_wpcf7_version" value="6.1.2" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f270-o2" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+<p>Welcome to the Aliento Weight Management and Nutrition programme. We’re confident that you’ll find this programme extremely valuable and we look forward to your feedback upon completion.
+</p>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="fname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name" value="" type="text" name="fname" /></span>
+		</p>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="lname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last Name" value="" type="text" name="lname" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="email-237"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email address" value="" type="email" name="email-237" /></span>
+		</p>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="tel-143"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Preferred Phone No." value="" type="tel" name="tel-143" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="energise"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><input type="checkbox" name="energise[]" value="Energise  (3 Consults)" /><span class="wpcf7-list-item-label">Energise  (3 Consults)</span></span><span class="wpcf7-list-item last"><input type="checkbox" name="energise[]" value="Energise  (5Consults)" /><span class="wpcf7-list-item-label">Energise  (5Consults)</span></span></span></span>
+		</p>
+	</div>
+</div>
+<p>We’ll be in contact soon to arrange your first consult.
+</p>
+<p>Enjoy!
+</p>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+</div>
+
+<!--END-->
+
+
+
+ <!--Friend-POPUP-->
+
+<!-- Modal -->
+
+<div id="friend-modal" class="modal fade" role="dialog">
+
+  <div class="modal-dialog login-pop">
+
+
+
+    <!-- Modal content-->
+
+    <div class="modal-content">
+
+      
+
+      <div class="modal-body">
+
+      	<div class="row">
+
+        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 login-sec">
+
+            	<h4>Welcome to Friends@Aliento</h4>
+
+            </div>
+
+            <div class="login-pop-btn">
+
+            	<button type="button" class="close" data-dismiss="modal">&times;</button>
+
+            </div>
+
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 login-form">
+
+            	<div class="images-friend">
+
+                	<ul>
+
+                    	<li><img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/imgg1.jpg"></li>
+
+                        <li><img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/imgg2.jpg"></li>
+
+                    </ul>
+
+                </div>
+
+            	
+<div class="wpcf7 no-js" id="wpcf7-f486-o3" lang="en-US" dir="ltr" data-wpcf7-id="486">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/web-aliento/images/favicon.png#wpcf7-f486-o3" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="486" /><input type="hidden" name="_wpcf7_version" value="6.1.2" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f486-o3" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="fname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name" value="" type="text" name="fname" /></span>
+		</p>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="lname"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last Name" value="" type="text" name="lname" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><span class="wpcf7-form-control-wrap" data-name="email-978"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="email-978" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+</div>
+
+<!--END--> 
+
+
+
+
+
+
+
+
+
+<!--header-top-->
+
+<div class="container-fluid">
+
+<div class="row header-top" style="background-color: #023a40;">
+
+
+    <div class="container">
+
+    	<div class="row">
+
+        	<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 logo wow bounceIn">
+
+        	<a href="https://aliento.com.au"><img src="https://aliento.com.au/wp-content/themes/web-aliento/images/logo.png" alt="" /></a>
+
+
+
+        </div>
+
+            <div class="menu-toggle pull-right"><i class="fa fa-bars "></i></div>
+
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 main-menu">
+
+              <ul id="menu-header-menu" class="menu"><li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-752"><a href="https://aliento.com.au/">Home</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-166"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-169"><a href="https://aliento.com.au/shapemaster/">Open Studio</a>
+	<ul class="sub-menu">
+		<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://aliento.com.au/shapemaster/">Shapemaster</a></li>
+		<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://aliento.com.au/vibration-training/">Whole Body Vibration Training</a></li>
+		<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="https://aliento.com.au/pricing/">Open Studio Pricing</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1126"><a href="https://aliento.com.au/massage-chair/">Massage Chair</a></li>
+	<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="https://aliento.com.au/vacu-shape/">VacuShape</a></li>
+	<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://aliento.com.au/vibrosaun/">Vibrosaun Therapy</a></li>
+	<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a href="https://aliento.com.au/analysis/">Body Composition Analysis</a></li>
+</ul>
+</li>
+<li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-167"><a href="https://aliento.com.au/#testi-area">Testimonials</a></li>
+<li id="menu-item-835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-835"><a href="https://aliento.com.au/free-trial/">Free Fitness Trial</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154"><a href="https://aliento.com.au/products/">Women&#8217;s Fitness Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a href="https://aliento.com.au/products/#pro0-sec">Fisiocrem</a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338"><a href="https://aliento.com.au/products/#pro1-sec">Posture Medic</a></li>
+	<li id="menu-item-339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-339"><a href="https://aliento.com.au/products/#pro2-sec">Point of Relief</a></li>
+</ul>
+</li>
+<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152"><a href="https://aliento.com.au/resources/">Fitness Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343"><a href="https://aliento.com.au/resources/#res-1">Brochures</a></li>
+	<li id="menu-item-346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346"><a href="https://aliento.com.au/resources/#res-2">Flyers</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-345"><a href="https://aliento.com.au/resources/#res-5">Jean Hailes for Women&#8217;s Health</a></li>
+</ul>
+</li>
+<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-151"><a href="https://aliento.com.au/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="https://aliento.com.au/contact-us/">Contact Us</a></li>
+	<li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534"><a href="https://aliento.com.au/trading/">Trading Hours</a></li>
+	<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://aliento.com.au/open-studio-suspensions/">Programme Suspensions</a></li>
+</ul>
+</li>
+</ul>
+
+
+                <!-- <ul class="menu">
+
+                    <li><a href="javascript:void(0)">About Us</a>
+
+                    	<ul>
+
+                        	<li><a href="story.html">Our Story</a></li>
+
+                            <li><a href="trading.html">Trading Hours</a></li>
+
+                        </ul>
+
+                    </li>
+
+                    <li><a href="javascript:void(0)">Services</a>
+
+              <ul>
+
+                <li><a href="https://clients.mindbodyonline.com/classic/mainclass?fl=true&tabID=7" target="_blank">Open Studio</a>
+
+                  <ul>
+
+                    <li><a href="#">Shapemaster</a></li>
+
+                    <li><a href="vibro-training.html">Vibration Training</a></li>
+
+                  </ul>
+
+                </li>
+
+                <li><a href="vibrosaun.html">Vibrosaun</a></li>
+
+                <li><a href="management.html">Weight Management/Nutrition </a></li>
+
+                <li><a href="analysis.html">Body Composition Analysis</a></li>
+
+                <li><a href="assessment.html">Free Online Health Assessment</a></li>
+
+
+
+              </ul>
+
+            </li>
+
+                    <li><a href="products.html">Products</a>
+
+                    	<ul>
+
+                        	<li><a href="products.html#pro1-sec">Fisiocrem</a></li>
+
+                            <li><a href="products.html#pro2-sec">Posture Medic</a></li>
+
+                            <li><a href="products.html#pro3-sec">Point of Relief</a></li>
+
+                            <li><a href="products.html#pro4-sec">USANA Supplements</a></li>
+
+                            <li><a href="products.html#pro5-sec">USANA Celavive</a></li>
+
+                            <li><a href="products.html#pro6-sec">Iberogast</a></li>
+
+                        </ul>
+
+                    </li>
+
+                    <li><a href="#testi-area">Testimonials</a></li>
+
+                    <li><a href="events.html">Events</a></li>
+
+                    <li><a href="resources.html">Resources</a>
+
+                    	<ul>
+
+                	<li><a href="resources.html#res-1">Brochures</a></li>
+
+                    <li><a href="resources.html#res-2">Flyers</a></li>
+
+                    <li><a href="resources.html#res-4">Impromy</a></li>
+
+                    <li><a href="resources.html#res-5">Jean Hailes for Women's Health</a></li>
+
+                </ul>
+
+                    </li>
+
+                    <li><a href="contact.html">Contact Us</a></li>
+
+                </ul> -->
+
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 header-sign">
+
+            	<div class="header-sign-toggle">
+
+                	<img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/bag.png" class="img-responsive">
+
+                </div>
+
+                <div class="header-sign-main">
+
+                    <ul>
+
+                        <li><a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-user" aria-hidden="true"></i>Register</a></li>
+
+                        <li><a href="https://clients.mindbodyonline.com/classic/mainclass?fl=true&tabID=7" target="_blank"><i class="fa fa-calendar" aria-hidden="true"></i> Bookings</a></li>
+
+                        <li><a href=" https://clients.mindbodyonline.com/ASP/su1.asp?studioid=153312&tg=&vt=&lvl=&stype=&view=&trn=0&page=&catid=&prodid=&date=9%2f18%2f2017&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1" target="_blank"><div class="cart-img cart1"></div></a></li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        </div>
+
+        </div>
+
+</div>
+
+<!--end-->
+
+<div class="clearfix"></div>
+
+
+<!--privacy-page-->
+<div class="container-fluid">
+	<div class="row privacy-page">
+    	<div class="container">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 privacy-content">
+            	<h3>Hello world!</h3>
+                <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://aliento.com.au/hello-world-2/" data-a2a-title="Hello world!"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world-2%2F&amp;linkname=Hello%20world%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world-2%2F&amp;linkname=Hello%20world%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world-2%2F&amp;linkname=Hello%20world%21" title="LinkedIn" rel="nofollow noopener" target="_blank"></a></div></div><p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://aliento.com.au/hello-world/" data-a2a-title="Hello world!"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world%2F&amp;linkname=Hello%20world%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world%2F&amp;linkname=Hello%20world%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Faliento.com.au%2Fhello-world%2F&amp;linkname=Hello%20world%21" title="LinkedIn" rel="nofollow noopener" target="_blank"></a></div></div>            </div>
+        </div>
+    </div>
+</div>
+<!--end-->
+<div class="clear"></div>
+
+<!--footer-->
+	<div class="container-fluid">
+    	<div class="row footer-wrapper">
+        	<div class="container">
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-address">
+                	<a href="#"><img alt="image" src="https://aliento.com.au/wp-content/themes/web-aliento/images/white-logo.png" class="img-responsive"></a>
+                    <ul class="foot-ad">
+                    	<li><i class="fa fa-map-marker" aria-hidden="true"></i><p>Level 1, 7A Darryl Street, Scoresby, Victoria 3179</p></li>
+                        <li><a href="tel:(03) 9764 1110"><i class="fa fa-phone" aria-hidden="true"></i>(03) 9764 1110 </a></li>
+                        <li><a href="mailto: info@aliento.com.au"><i class="fa fa-envelope-o" aria-hidden="true"></i> info@aliento.com.au</a></li>
+              
+</footer>
+
+
+                   <ul class="foot-social">
+    <li class="facebook"><a href="https://www.facebook.com/alientoWellbeing" target="_blank" class="hvr-pop">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40">
+                </a></li><li class="youtube"><a href="https://www.youtube.com/channel/@aliento149" target="_blank" class="hvr-pop">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Youtube" width="40" height="40">
+                </a></li><li class="instagram"><a href="https://www.instagram.com/alientowellbeing/" target="_blank" class="hvr-pop">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
+                </a></li><li class="tiktok"><a href="https://www.tiktok.com/@alientowomenfitness" target="_blank" class="hvr-pop">
+                    <img src="https://aliento.com.au/wp-content/uploads/2025/03/pngimg.com-tiktok_PNG26.png" alt="Tiktok" width="40" height="40">
+                </a></li></ul>
+
+<style>
+.foot-social {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin: 0;
+}
+
+.foot-social li {
+    margin: 0 10px;
+}
+
+.foot-social img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.foot-social img:hover {
+    transform: scale(1.2);
+}
+</style>
+
+
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-about foot-each">
+                	<h4>Additional Information</h4>
+									<ul id="menu-additional-information" class=""><li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://aliento.com.au/trading/">Trading Hours</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://aliento.com.au/open-studio-suspensions/">Programme Suspensions</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://aliento.com.au/faq/">Questions and Answers</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://aliento.com.au/alientos-terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://aliento.com.au/privacy-policy/">Privacy Policy</a></li>
+</ul>
+
+
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-menu foot-each">
+
+                    <h4>Useful Links</h4>
+										<ul id="menu-useful-links" class=""><li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171"><a href="http://aliento.com.au/vibration-training/">Services</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="https://aliento.com.au/products/">Women&#8217;s Fitness Services</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-174"><a href="http://aliento.com.au/#testi-area">Testimonials</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://aliento.com.au/resources/">Fitness Resources</a></li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://aliento.com.au/contact-us/">Contact Us</a></li>
+</ul>                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-contact foot-each">
+                	 <h4>Find Us</h4>
+                    <div class="map-container">
+                    	<iframe loading="lazy" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.378244437264!2d145.22813991495954!3d-37.89822077973712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63dd94b6cf799%3A0x75e3590d731618!2s1%2F7A+Darryl+St%2C+Scoresby+VIC+3179%2C+Australia!5e0!3m2!1sen!2sin!4v1505370768954" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--end-->
+<div class="clear"></div>
+<!--copyright-->
+	<div class="container-fluid">
+    	<div class="row copyright-main">
+        	<div class="container">
+            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 copyright">
+                	<p><i class="fa fa-copyright" aria-hidden="true"></i>Copyright 2017-24 All Rights Reserved</p>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 power">
+                	<p>Powered By : <a href="https://www.facebook.com/shsawonbd" target="_blank">Sakibhsawon</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--end-->
+
+
+<!--scroll-to-top-->
+<!--<div class="back-bottom"><a href="#" class="cd-bottom cd-is-visible cd-fade-out">Bottom</a></div>
+--><!--<div class="back-top"><a href="#0" class="cd-top cd-is-visible cd-fade-out">Top</a></div>-->
+
+
+
+<div class="scroll-top" align = "right">
+<a href="javascript:;" id="scrollToTop">&#x25B2;</a>
+</div>
+
+<!--scroll-to-top end-->
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+    <script src="https://aliento.com.au/wp-content/themes/web-aliento/js/custom.js"></script>
+    <script src="https://aliento.com.au/wp-content/themes/web-aliento/js/owl.carousel.min.js"></script>
+    <script src="https://aliento.com.au/wp-content/themes/web-aliento/js/jquery-ui.js"></script>
+    <script src="https://aliento.com.au/wp-content/themes/web-aliento/js/wow.min.js"></script>
+    <script>
+		new WOW().init();
+
+
+				</script>
+    <script src="https://aliento.com.au/wp-content/themes/web-aliento/js/bootstrap.min.js"></script>
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/web-aliento/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script id="wp-hooks-js" src="https://aliento.com.au/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://aliento.com.au/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://aliento.com.au/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/aliento.com.au\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://aliento.com.au/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://aliento.com.au/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://aliento.com.au/wp-includes/js/wp-emoji-loader.min.js
+</script>
+  </body>
+</html>

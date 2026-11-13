@@ -1,0 +1,6 @@
+{
+  "name": "Aliento - Women's Fitness & Wellness Centre",
+  "description": "Boutique women's fitness and wellness centre in Scoresby, Victoria offering Shapemaster Pilates, VacuShape, Whole Body Vibration, Vibrosaun, and massage therapies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
